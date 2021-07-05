@@ -1,0 +1,44 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0px;
+}
+h1{
+    margin-top: 0;
+    font-size: 60px;
+}
+.healthy-food{
+    display: flex;
+}
+.padding-top{
+    padding-top:10%;
+}
+.half-width{
+    width:50%;
+    padding-left: 7%;
+}
+.padding-left{
+    padding-left:3%;
+}
+.half-width p{
+    color:#828282;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom:50px;
+}
+.color{
+    color:#575757;
+}
+.healthy-color{
+    color:#fc8846;
+}
+.order-btn{
+    text-decoration: none;
+    padding:23px 45px;
+    color:white;
+    border-radius: 50px;
+    font-weight: 500;
+    background-image:linear-gradient(#fb954b, #fd5332);
+}
+.half-width img{
+    width:100%;
+}
