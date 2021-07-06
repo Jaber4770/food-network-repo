@@ -137,6 +137,7 @@ h3{
 .hlty-img img{
     width:100%;
     border-radius: 5px;
+    vertical-align: middle;
 }
 #footer-color{
     background-color: #0b0d17;
