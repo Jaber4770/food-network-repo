@@ -13,14 +13,14 @@ h2{
     margin-bottom: 10%;
 }
 .half-width{
-    width:40%;
+    width:50%;
+    padding-left:5%;
 }
-.padding-left{
-    padding-left:7%;
+.padding-top{
     padding-top:10%;
 }
 .color{
-    color:rgb(77, 77, 77);
+    color:rgb(88, 84, 84);
 }
 .orange-color{
     color:#fc8846;
@@ -38,4 +38,14 @@ h2{
     background-image: linear-gradient(#fc8846, tomato);
     padding:19px 35px;
     border-radius: 50px;
+}
+.img-width img{
+    width: 60%;
+    padding-left:13%;
+}
+.bg-img{
+    background-image: url(images/shape/Frame\ 57.jpg);
+}
+.width-pera{
+    width:80%;
 }
