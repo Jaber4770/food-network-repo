@@ -71,11 +71,11 @@ h3{
 #img-width img{
     width: 60%;
     padding-left:13%;
+    vertical-align: middle;
 }
 .bg-img{
     background-image: url(images/shape/Frame\ 59.jpg);
     padding-top:5%;
-    width:100%;
 }
 .width-pera{
     width:80%;
