@@ -20,6 +20,12 @@ h3{
 }
 #wlcm-hdr{
     color:gray;
+    text-align: center;
+    padding-bottom: 5%;
+    background-image: linear-gradient(rgb(173, 172, 172), white);
+}
+.fst-heder{
+    padding-bottom: 5%;
 }
 .section-flex{
     display: flex;
