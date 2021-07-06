@@ -6,8 +6,6 @@ body{
 h1{
     font-size: 55px;
     margin:0;
-    padding-top:40%;
-    padding-bottom: 0%;
 }
 h2{
     font-size: 40px;
@@ -19,6 +17,9 @@ h3{
     font-weight: bolder;
     margin:0;
     padding-top: 10%;
+}
+#wlcm-hdr{
+    color:gray;
 }
 .section-flex{
     display: flex;
