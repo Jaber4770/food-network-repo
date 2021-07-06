@@ -68,13 +68,14 @@ h3{
     border-radius: 50px;
     box-shadow: 0px 0px 15px tomato;
 }
-.img-width img{
+#img-width img{
     width: 60%;
     padding-left:13%;
 }
 .bg-img{
     background-image: url(images/shape/Frame\ 59.jpg);
     padding-top:5%;
+    width:100%;
 }
 .width-pera{
     width:80%;
@@ -133,6 +134,10 @@ h3{
     padding-top:0;
     padding-bottom: 22%;
 }
+.hlty-img img{
+    width:100%;
+    border-radius: 5px;
+}
 #footer-color{
     background-color: #0b0d17;
 }
@@ -142,7 +147,7 @@ h3{
     padding-bottom: 6%;
     margin:0% 35%;
 }
-#food-color{
+.food-color{
     color:#fc8444;
 }
 #ftr-hdr{
