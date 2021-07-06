@@ -1,26 +1,36 @@
 body{
     font-family: 'Rubik', sans-serif;
     margin: 0px;
+    padding:0;
 }
 h1{
     font-size: 55px;
+    
 }
 h2{
     font-size: 40px;
 }
 .section-flex{
     display: flex;
-    margin-bottom: 10%;
+}
+.setn-distnc{
+    margin-bottom: 5%;
 }
 .half-width{
     width:50%;
     padding-left:5%;
 }
 .padding-top{
+    padding-top:20%;
+
+}
+.padding-top-two{
     padding-top:10%;
+
 }
 .color{
     color:rgb(88, 84, 84);
+    margin:0px;
 }
 .orange-color{
     color:#fc8846;
@@ -30,6 +40,7 @@ h2{
     color:gray;
     line-height: 30px;
     padding-bottom: 10%;
+    padding-top:5%;
 }
 .order-btn{
     text-decoration: none;
@@ -38,14 +49,28 @@ h2{
     background-image: linear-gradient(#fc8846, tomato);
     padding:19px 35px;
     border-radius: 50px;
+    box-shadow: 0px 0px 15px tomato;
 }
 .img-width img{
     width: 60%;
     padding-left:13%;
 }
 .bg-img{
-    background-image: url(images/shape/Frame\ 57.jpg);
+    background-image: url(images/shape/Frame\ 59.jpg);
+    padding-top:5%;
 }
 .width-pera{
     width:80%;
+}
+.recipes{
+    background-color:#FFFFFF;
+}
+.my-recipies{
+    text-align: center;
+    padding-top:6%;
+}
+.my-recipies p{
+    width:40%;
+    margin:0 auto;
+    padding-bottom:3%;
 }
