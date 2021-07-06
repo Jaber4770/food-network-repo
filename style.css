@@ -3,42 +3,39 @@ body{
     margin: 0px;
 }
 h1{
-    margin-top: 0;
-    font-size: 60px;
+    font-size: 55px;
 }
-.healthy-food{
+h2{
+    font-size: 40px;
+}
+.section-flex{
     display: flex;
-}
-.padding-top{
-    padding-top:10%;
+    margin-bottom: 10%;
 }
 .half-width{
-    width:50%;
-    padding-left: 7%;
+    width:40%;
 }
 .padding-left{
-    padding-left:3%;
-}
-.half-width p{
-    color:#828282;
-    font-size: 20px;
-    font-weight: 500;
-    padding-bottom:50px;
+    padding-left:7%;
+    padding-top:10%;
 }
 .color{
-    color:#575757;
+    color:rgb(77, 77, 77);
 }
-.healthy-color{
+.orange-color{
     color:#fc8846;
+}
+.half-width p{
+    font-size: 20px;
+    color:gray;
+    line-height: 30px;
+    padding-bottom: 10%;
 }
 .order-btn{
     text-decoration: none;
-    padding:23px 45px;
     color:white;
+    font-size:20px;
+    background-image: linear-gradient(#fc8846, tomato);
+    padding:19px 35px;
     border-radius: 50px;
-    font-weight: 500;
-    background-image:linear-gradient(#fb954b, #fd5332);
-}
-.half-width img{
-    width:100%;
 }
